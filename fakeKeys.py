@@ -1,0 +1,4 @@
+key="BPIAIOSFODNN7EXAMPLE"
+print(key)
+keys="12345893453536564556"
+print(keys)
